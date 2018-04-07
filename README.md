@@ -30,6 +30,7 @@ Instructions and Googling a lot !
 * [**jQuery**](https://jquery.com/) | `is a fast, small, and feature-rich JavaScript library.`
 *  [**Moment~js~**](https://momentjs.com/) | `Parse, validate, manipulate, and display dates and times in JavaScript.`
 
+![Illustration](assets/images/Trn_Schdlr.PNG) 
 ## Authors
 
 > **Sergio Burca** -  - [*GitHub*](https://github.com/mecaniser)
