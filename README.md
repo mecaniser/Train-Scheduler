@@ -1,6 +1,6 @@
 # Train Scheduler
 > ![Firebase](https://www.shareicon.net/download/2016/07/08/117548_google.ico)
-Click  [Schedule](https://mecaniser.github.io/Train-Scheduler/) to test the app.
+Click  [Scheduler](https://mecaniser.github.io/Train-Scheduler/) to test the app.
 
 ## Getting Started
 ____
